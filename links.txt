@@ -1,0 +1,69 @@
+LAB SETUP
+https://thedarksource.com/setting-up-an-active-directory-lab-for-red-teaming/
+https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/
+
+https://github.com/CyberSecurityUP/OSCE-Complete-Guide
+
+https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest#azure-ad-introduction-for-red-teamers
+
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+Great and Cloud Also
+https://pentestbook.six2dez.com/
+
+Offensive Seucirty
+https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+
+
+TOOLKIT
+https://github.com/infosecn1nja/Red-Teaming-Toolkit
+https://github.com/infosecn1nja/AD-Attack-Defense
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
+
+TESTS
+https://github.com/redcanaryco/invoke-atomicredteam
+
+AMSI bypass
+https://github.com/kmkz/PowerShell/blob/master/amsi-bypass.ps1
+ENCODE
+https://github.com/kmkz/PowerShell/blob/master/base64-encode.ps1
+
+RED TEAM Guide
+https://dmcxblue.gitbook.io/red-team-notes-2-0/red-team
+
+powershell blue team guide
+https://devblogs.microsoft.com/powershell/powershell-the-blue-team/
+
+https://github.com/specterops/presentations
+
+essentials
+https://github.com/hexachordanu/Red-Team-Essentials
+
+Modern AD attack sceneraios and how to detect them
+https://www.netwrix.com/thank_you_for_watching_recorded_webinar.html?video=610577921&webinar_id=899&slides=&fbqtyp=1
+
+
+best practises for securing AD and A-AD-güzel anlatım
+https://www.netwrix.com/thank_you_for_watching_recorded_webinar.html?video=646554582&webinar_id=914&slides=10_Best_Practices_for_Securing_Active_Directory_and_Azure_AD.pdf&fbqtyp=1
+
+ayrıca araçlar exchange-sql azure AD vb
+https://www.netwrix.com/free_guides.html
+https://www.netwrix.com/best_practices.html
+
+AUDIT TOOLS for free:
+https://www.netwrix.com/freeware_tools.html
+
+HOW-TO Guides
+https://www.netwrix.com/how_to_guides.html
+
+https://attack.stealthbits.com/
+
+entitlement review example
+https://stealthbits.com/entitlement-reviews-solution/?cID=70170000000klsm&sID=linkedin&utm_source=linkedin&utm_medium=social&utm_campaign=linkedin
+
+MITRE Scenario Atomic-Red Team (select a technique to test a scenario) 
+https://github.com/redcanaryco/atomic-red-team
+
+AMSI BYPASS and defence evasion
+https://dazzyddos.github.io/posts/AMSI-Bypass/
